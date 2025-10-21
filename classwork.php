@@ -12,19 +12,19 @@
 // Otherwise, no discount is applied.
 
 
-👉 Write a PHP program that:
+// 👉 Write a PHP program that:
 
-1. Accepts the total amount spent, a boolean (true/false) for membership status, and a boolean for coupon code availability.
-
-
-2. Uses arithmetic operators to calculate the discounted price.
+// 1. Accepts the total amount spent, a boolean (true/false) for membership status, and a boolean for coupon code availability.
 
 
-3. Uses logical operators (AND, OR) and comparison operators (>=) inside if-elseif-else statements to determine the discount.
+// 2. Uses arithmetic operators to calculate the discounted price.
 
 
-4. Displays the final amount to be paid.
-5.
+// 3. Uses logical operators (AND, OR) and comparison operators (>=) inside if-elseif-else statements to determine the discount.
+
+
+// 4. Displays the final amount to be paid.
+// 5.
 $moneyspent = 10000;
 
 if($moneyspent >= 10000){
